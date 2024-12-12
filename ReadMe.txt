@@ -7,25 +7,25 @@ plant phenology in South Africa.
 
 File that can be found:
 
-ML Phenology - Build_model_v2.R
+Build_model_v2.R
 description: This script is focused on building machine learning models to analyze phenological data. It uses a combonation of R and python. It will save the model and the optimal results.
 
 
-ML Phenology - Get iNat records from GBIF_v2.R
+Get_iNat_records_from_GBIF_v2.R
 description: This script retrieves research-grade plant records from iNaturalist via GBIF from the occurrence.txt and multimedia.txt files.
 
-ML phenology - Run_ML_function_v2.R
+
+Run_ML_function_v2.R
 description: This script loads necessary libraries and prepares the environment for running the machine learning model. It will run through a large directory of images and create an output file for the results.
 
 
-ML phenology - Plots v2.R & ML phenology - Plots.R
+Plots_v2.R
 description: These scripts contain functions for generating various plots related to phenological data.
 
 
-
-ML phenology - Testing the two-step method.R
-
+Testing_the_two-step_method_v2.R
 description: This script tests a two-step methodology in the analysis of phenological data.
 
-ML Phenology - Additional stat functions.R
+
+Additional_stat_functions.R
 description: This script contains custom optional statistical functions to assist in the analysis, such as calculating circular means and standard devation.
